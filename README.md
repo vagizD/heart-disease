@@ -4,7 +4,7 @@ The notebook contains information about and analysis of "heart-disease" dataset.
 
 ## Data
 
-"heart-disease" dataset was taken from Kaggle: https://www.kaggle.com/ronitf/heart-disease-uci
+"heart-disease" dataset was taken from: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 ## Results
 
